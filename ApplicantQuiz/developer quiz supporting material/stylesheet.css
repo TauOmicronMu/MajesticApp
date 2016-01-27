@@ -1,0 +1,17 @@
+body {
+	font-family : "Quicksand" , "sans-serif";
+	weight : bold;
+}
+
+td {
+	background-color : #add8e6;
+	border-radius : 15px;
+	padding: 2px;
+	color : #fff;
+	text-align : center;
+	margin : 5px;
+}
+
+th {
+	margin : 5px;
+}
