@@ -1,17 +1,21 @@
 body {
 	font-family : "Quicksand" , "sans-serif";
 	weight : bold;
+        background-image: url('http://i.imgur.com/wvbAhwy.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
 }
 
-td {
-	background-color : #add8e6;
-	border-radius : 15px;
-	padding: 2px;
-	color : #fff;
-	text-align : center;
-	margin : 5px;
-}
+#piechart  {
+    height: 50%; 
+    width: 50%;
+    
+    position: absolute;
+    
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
 
-th {
-	margin : 5px;
+    margin: auto;
 }
